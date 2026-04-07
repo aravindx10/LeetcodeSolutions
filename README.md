@@ -21,4 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/aravindx10/LeetcodeSolutions/tree/master/0058-length-of-last-word) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/aravindx10/LeetcodeSolutions/tree/master/2697-lexicographically-smallest-palindrome) |
+## Two Pointers
+|  |
+| ------- |
+| [2697-lexicographically-smallest-palindrome](https://github.com/aravindx10/LeetcodeSolutions/tree/master/2697-lexicographically-smallest-palindrome) |
+## Greedy
+|  |
+| ------- |
+| [2697-lexicographically-smallest-palindrome](https://github.com/aravindx10/LeetcodeSolutions/tree/master/2697-lexicographically-smallest-palindrome) |
 <!---LeetCode Topics End-->
