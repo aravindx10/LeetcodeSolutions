@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aravindx10/LeetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0204-count-primes](https://github.com/aravindx10/LeetcodeSolutions/tree/master/0204-count-primes) |
 | [0682-baseball-game](https://github.com/aravindx10/LeetcodeSolutions/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/aravindx10/LeetcodeSolutions/tree/master/0739-daily-temperatures) |
 ## Math
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/aravindx10/LeetcodeSolutions/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/aravindx10/LeetcodeSolutions/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/aravindx10/LeetcodeSolutions/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/aravindx10/LeetcodeSolutions/tree/master/0739-daily-temperatures) |
 ## Simulation
 |  |
 | ------- |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/aravindx10/LeetcodeSolutions/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/aravindx10/LeetcodeSolutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
