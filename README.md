@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/aravindx10/LeetcodeSolutions/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/aravindx10/LeetcodeSolutions/tree/master/0204-count-primes) |
+| [0412-fizz-buzz](https://github.com/aravindx10/LeetcodeSolutions/tree/master/0412-fizz-buzz) |
 ## Enumeration
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/aravindx10/LeetcodeSolutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/aravindx10/LeetcodeSolutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/aravindx10/LeetcodeSolutions/tree/master/0058-length-of-last-word) |
+| [0412-fizz-buzz](https://github.com/aravindx10/LeetcodeSolutions/tree/master/0412-fizz-buzz) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/aravindx10/LeetcodeSolutions/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Two Pointers
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/aravindx10/LeetcodeSolutions/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/aravindx10/LeetcodeSolutions/tree/master/0682-baseball-game) |
 ## Design
 |  |
