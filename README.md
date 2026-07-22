@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/aravindx10/LeetcodeSolutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aravindx10/LeetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0204-count-primes](https://github.com/aravindx10/LeetcodeSolutions/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/aravindx10/LeetcodeSolutions/tree/master/0217-contains-duplicate) |
 | [0682-baseball-game](https://github.com/aravindx10/LeetcodeSolutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/aravindx10/LeetcodeSolutions/tree/master/0739-daily-temperatures) |
 ## Math
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aravindx10/LeetcodeSolutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/aravindx10/LeetcodeSolutions/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/aravindx10/LeetcodeSolutions/tree/master/0217-contains-duplicate) |
 ## Stack
 |  |
 | ------- |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aravindx10/LeetcodeSolutions/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/aravindx10/LeetcodeSolutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
