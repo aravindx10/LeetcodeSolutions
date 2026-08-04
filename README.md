@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/aravindx10/LeetcodeSolutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/aravindx10/LeetcodeSolutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/aravindx10/LeetcodeSolutions/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/aravindx10/LeetcodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/aravindx10/LeetcodeSolutions/tree/master/0412-fizz-buzz) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/aravindx10/LeetcodeSolutions/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Two Pointers
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/aravindx10/LeetcodeSolutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aravindx10/LeetcodeSolutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aravindx10/LeetcodeSolutions/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/aravindx10/LeetcodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -181,4 +183,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/aravindx10/LeetcodeSolutions/tree/master/0238-product-of-array-except-self) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/aravindx10/LeetcodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/aravindx10/LeetcodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
