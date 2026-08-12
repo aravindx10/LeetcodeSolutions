@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/aravindx10/LeetcodeSolutions/tree/master/0268-missing-number) |
 | [0682-baseball-game](https://github.com/aravindx10/LeetcodeSolutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/aravindx10/LeetcodeSolutions/tree/master/0739-daily-temperatures) |
+| [1929-concatenation-of-array](https://github.com/aravindx10/LeetcodeSolutions/tree/master/1929-concatenation-of-array) |
 ## Math
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/aravindx10/LeetcodeSolutions/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/aravindx10/LeetcodeSolutions/tree/master/0682-baseball-game) |
+| [1929-concatenation-of-array](https://github.com/aravindx10/LeetcodeSolutions/tree/master/1929-concatenation-of-array) |
 ## Design
 |  |
 | ------- |
